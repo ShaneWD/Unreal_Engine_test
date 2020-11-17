@@ -936,3 +936,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.17-18.23.30:125][  0]LogAssetRegistry: Asset discovery search completed in 24.6965 seconds
 [2020.11.17-18.23.30:132][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2020.11.17-18.23.30:205][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.17-18.36.37:795][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2020.11.17-18.36.46:106][641]Cmd: TRANSACTION UNDO
+[2020.11.17-18.36.46:106][641]LogEditorTransaction: Undo Move Actors
+[2020.11.17-18.36.46:194][641]LogSlate: Took 0.000814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.17-18.36.48:258][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.11.17-18.36.52:893][950]Cmd: TRANSACTION UNDO
+[2020.11.17-18.36.52:893][950]LogEditorTransaction: Undo Move Actors
+[2020.11.17-18.37.03:250][431]LogActorFactory: Actor Factory created Cube
+[2020.11.17-18.37.03:595][444]LogActorFactory: Actor Factory created Cube
+[2020.11.17-18.37.10:171][835]Cmd: DELETE
+[2020.11.17-18.37.10:172][835]Cmd: ACTOR DELETE
+[2020.11.17-18.37.10:340][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.17-18.37.10:349][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.17-18.37.10:351][835]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2020.11.17-18.37.35:741][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.17-18.37.35:930][916]LogSavePackage: Moving '../../../Projects/GitHub_test111/Saved/Minimal_Default_Auto1B74D96B140BBA5001A301ABCAFD2D8E2.tmp' to '../../../Projects/GitHub_test111/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2020.11.17-18.37.35:938][916]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.206
+[2020.11.17-18.37.35:938][916]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.206
+[2020.11.17-18.38.03:054][250]LogActorFactory: Actor Factory created Cube
+[2020.11.17-18.38.03:255][261]LogActorFactory: Actor Factory created Cube
+[2020.11.17-18.38.04:883][355]Cmd: DELETE
+[2020.11.17-18.38.04:883][355]Cmd: ACTOR DELETE
+[2020.11.17-18.38.04:884][355]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.17-18.38.04:892][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.17-18.38.04:894][355]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2020.11.17-18.38.06:717][435]LogActorFactory: Actor Factory created Cube
+[2020.11.17-18.38.06:857][443]LogActorFactory: Actor Factory created Cube
