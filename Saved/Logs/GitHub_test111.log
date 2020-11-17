@@ -963,3 +963,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.17-18.38.04:894][355]LogEditorActor: Deleted 1 Actors (0.011 secs)
 [2020.11.17-18.38.06:717][435]LogActorFactory: Actor Factory created Cube
 [2020.11.17-18.38.06:857][443]LogActorFactory: Actor Factory created Cube
+[2020.11.17-18.47.36:177][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.11.17-18.47.36:208][239]LogSavePackage: Moving '../../../Projects/GitHub_test111/Saved/Minimal_Default_Auto29A3C335E48886C2E366532B423A3F404.tmp' to '../../../Projects/GitHub_test111/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2020.11.17-18.47.36:210][239]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.055
+[2020.11.17-18.47.36:210][239]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.055
+[2020.11.17-18.48.56:790][242]LogActorFactory: Actor Factory created Sphere
+[2020.11.17-18.48.57:097][259]LogActorFactory: Actor Factory created Sphere
+[2020.11.17-18.49.13:169][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.17-18.49.13:259][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.17-18.49.13:282][ 52]LogSavePackage: Moving '../../../Projects/GitHub_test111/Saved/Minimal_Default59C544A645043DAA53AC49B43FD9551C.tmp' to '../../../Projects/GitHub_test111/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.11.17-18.49.13:303][ 52]LogFileHelpers: Saving map 'Minimal_Default' took 0.076
+[2020.11.17-18.49.13:303][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../Projects/GitHub_test111/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2020.11.17-18.49.13:390][ 52]LogSavePackage: Moving '../../../Projects/GitHub_test111/Saved/Minimal_Default_BuiltData0A91B65045A8AB30590F75B29AA76F30.tmp' to '../../../Projects/GitHub_test111/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.11.17-18.49.13:424][ 52]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.17-18.49.13:425][ 52]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.11.17-18.49.13:425][ 52]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
