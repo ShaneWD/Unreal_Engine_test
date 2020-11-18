@@ -663,3 +663,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-16.30.20:368][702]LogActorFactory: Actor Factory created Cube
 [2020.11.18-16.30.21:387][743]LogActorFactory: Actor Factory created Sphere
 [2020.11.18-16.30.21:706][761]LogActorFactory: Actor Factory created Sphere
+[2020.11.18-16.30.42:291][117]LogActorFactory: Actor Factory created Sphere
+[2020.11.18-16.30.42:478][127]LogActorFactory: Actor Factory created Sphere
