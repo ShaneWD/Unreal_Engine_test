@@ -660,3 +660,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-03.34.46:062][  2]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
 [2020.11.18-03.35.37:713][675]LogActorFactory: Actor Factory created Cube
 [2020.11.18-03.35.37:957][687]LogActorFactory: Actor Factory created Cube
+[2020.11.18-03.35.50:398][415]Cmd: DELETE
+[2020.11.18-03.35.50:398][415]Cmd: ACTOR DELETE
+[2020.11.18-03.35.50:404][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-03.35.50:414][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.11.18-03.35.50:416][415]LogEditorActor: Deleted 1 Actors (0.018 secs)
