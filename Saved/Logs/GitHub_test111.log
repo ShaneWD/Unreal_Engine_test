@@ -733,3 +733,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-13.56.52:537][993]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C53C2C6840), frame # 3993
 [2020.11.18-13.56.52:537][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
 [2020.11.18-13.56.52:588][995]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.11.18-13.57.13:297][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.18-13.57.14:576][214]LogSlate: Window 'Save Content' being destroyed
+[2020.11.18-13.57.14:613][214]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.18-13.57.14:667][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.11.18-13.57.14:705][214]LogSavePackage: Moving '../../../Projects/GitHub_clone_test/1.1/Unreal_Engine_test/Saved/Minimal_Default97F24F3B44D47296F310B8953431D148.tmp' to '../../../Projects/GitHub_clone_test/1.1/Unreal_Engine_test/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.11.18-13.57.14:737][214]LogFileHelpers: Saving map 'Minimal_Default' took 0.082
+[2020.11.18-13.57.14:795][214]LogSavePackage: Moving '../../../Projects/GitHub_clone_test/1.1/Unreal_Engine_test/Saved/Minimal_Default_BuiltDataD5073924432259E9CBC8C8A4E867E3CD.tmp' to '../../../Projects/GitHub_clone_test/1.1/Unreal_Engine_test/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.11.18-13.57.14:901][214]LogSlate: Window 'GitHub_test111 - Unreal Editor' being destroyed
+[2020.11.18-13.57.14:902][214]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.18-13.57.15:059][214]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.18-13.57.15:060][214]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.11.18-13.57.15:060][214]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.11.18-13.57.15:064][215]Cmd: QUIT_EDITOR
+[2020.11.18-13.57.15:064][215]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.11.18-13.57.15:078][215]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
