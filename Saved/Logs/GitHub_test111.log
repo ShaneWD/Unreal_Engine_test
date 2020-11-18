@@ -676,3 +676,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-02.41.17:033][210]LogActorFactory: Actor Factory created Cube
 [2020.11.18-02.41.17:745][239]LogActorFactory: Actor Factory created Cube
 [2020.11.18-02.41.17:875][246]LogActorFactory: Actor Factory created Cube
+[2020.11.18-02.41.33:091][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
