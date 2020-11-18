@@ -11,5 +11,5 @@ while True:
     os.system("""git push https://github.com/ShaneWD/Unreal_Engine_test.git """)
     print("""git push https://github.com/ShaneWD/Unreal_Engine_test.git """)
     time.sleep(10)
-    os.system("""git clone https://github.com/ShaneWD/Unreal_Engine_test.git """)
-    print("""git clone https://github.com/ShaneWD/Unreal_Engine_test.git """)
+    os.system("""git pull https://github.com/ShaneWD/Unreal_Engine_test.git""")
+    print("""git pull """)
