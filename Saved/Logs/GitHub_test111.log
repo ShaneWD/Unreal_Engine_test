@@ -574,3 +574,88 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-16.34.00:587][  0]LogHMD: Failed to initialize OpenVR with code 110
 [2020.11.18-16.34.00:587][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
 [2020.11.18-16.34.00:588][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.18-16.34.00:750][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.18-16.34.00:760][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.18-16.34.00:760][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A19E614600), frame # 0
+[2020.11.18-16.34.00:760][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A19E629BC0), frame # 0
+[2020.11.18-16.34.00:780][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.18-16.34.00:780][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.18-16.34.00:780][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.18-16.34.00:780][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.18-16.34.00:780][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.18-16.34.00:780][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.18-16.34.00:780][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.18-16.34.00:780][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.18-16.34.00:780][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.18-16.34.00:780][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.18-16.34.00:873][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.18-16.34.00:873][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.18-16.34.00:873][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.18-16.34.00:873][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.18-16.34.00:873][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.11.18-16.34.00:873][  0]LogAudioMixer: Display: 5: BackRight
+[2020.11.18-16.34.00:873][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.11.18-16.34.00:873][  0]LogAudioMixer: Display: 7: SideRight
+[2020.11.18-16.34.01:131][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.18-16.34.01:134][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.18-16.34.01:135][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.18-16.34.01:135][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.18-16.34.01:136][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.18-16.34.01:137][  0]LogInit: FAudioDevice initialized.
+[2020.11.18-16.34.01:138][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.18-16.34.01:281][  0]LogDerivedDataCache: Saved boot cache 0.14s 75MB C:/Users/22sha/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.18-16.34.01:288][  0]LogInit: Texture streaming: Enabled
+[2020.11.18-16.34.01:310][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.18-16.34.01:310][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.18-16.34.01:315][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.18-16.34.01:385][  0]LogInit: Transaction tracking system initialized
+[2020.11.18-16.34.01:409][  0]BlueprintLog: New page: Editor Load
+[2020.11.18-16.34.01:484][  0]LocalizationService: Localization service is disabled
+[2020.11.18-16.34.01:564][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.18-16.34.01:564][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.18-16.34.01:631][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.18-16.34.01:631][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.18-16.34.01:765][  0]LogFileCache: Scanning file cache for directory 'D:/Games/UE_4.25/Projects/GitHub_clone_test/clone/Unreal_Engine_test/Content/' took 0.00s
+[2020.11.18-16.34.01:977][  0]SourceControl: Source control is disabled
+[2020.11.18-16.34.01:977][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.573
+[2020.11.18-16.34.01:977][  0]Cmd: MAP LOAD FILE="../../../Projects/GitHub_clone_test/clone/Unreal_Engine_test/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.18-16.34.01:977][  0]LightingResults: New page: Lighting Build
+[2020.11.18-16.34.01:978][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.18-16.34.01:978][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.18-16.34.01:978][  0]MapCheck: New page: Map Check
+[2020.11.18-16.34.01:978][  0]LightingResults: New page: Lighting Build
+[2020.11.18-16.34.01:985][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A19E614600), frame # 0
+[2020.11.18-16.34.01:985][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A19E629BC0), frame # 0
+[2020.11.18-16.34.01:986][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.18-16.34.02:118][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.11.18-16.34.02:118][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A18EE5C600), frame # 0
+[2020.11.18-16.34.02:118][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A18EE1A5C0), frame # 0
+[2020.11.18-16.34.02:123][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.18-16.34.02:133][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.18-16.34.02:133][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.18-16.34.02:134][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2020.11.18-16.34.02:134][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.157
+[2020.11.18-16.34.02:136][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.732
+[2020.11.18-16.34.02:295][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.18-16.34.02:303][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.18-16.34.02:312][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.18-16.34.02:319][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.18-16.34.02:330][  0]LogCollectionManager: Loaded 0 collections in 0.001987 seconds
+[2020.11.18-16.34.02:343][  0]LogFileCache: Scanning file cache for directory 'D:/Games/UE_4.25/Projects/GitHub_clone_test/clone/Unreal_Engine_test/Saved/Collections/' took 0.00s
+[2020.11.18-16.34.02:343][  0]LogFileCache: Scanning file cache for directory 'D:/Games/UE_4.25/Projects/GitHub_clone_test/clone/Unreal_Engine_test/Content/Developers/22sha/Collections/' took 0.00s
+[2020.11.18-16.34.02:343][  0]LogFileCache: Scanning file cache for directory 'D:/Games/UE_4.25/Projects/GitHub_clone_test/clone/Unreal_Engine_test/Content/Collections/' took 0.00s
+[2020.11.18-16.34.02:343][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 3427 classes and 821 folders.
+[2020.11.18-16.34.02:345][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.18-16.34.02:393][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.18-16.34.02:394][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.11.18-16.34.02:445][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.18-16.34.02:445][  0]LogLoad: (Engine Initialization) Total time: 8.04 seconds
+[2020.11.18-16.34.02:445][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.18-16.34.02:502][  0]LogAssetRegistry: Asset discovery search completed in 3.6348 seconds
+[2020.11.18-16.34.02:509][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.11.18-16.34.02:510][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.18-16.34.02:518][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.18-16.34.02:521][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.18-16.34.02:525][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.18-16.34.02:634][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.18-16.34.02:668][  2]LogRenderer: Reallocating scene render targets to support 808x364 Format 10 NumSamples 1 (Frame:1).
