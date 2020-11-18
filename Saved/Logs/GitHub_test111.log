@@ -659,3 +659,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-02.40.19:726][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.11.18-02.40.19:769][  0]LogSlate: Took 0.000564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.11.18-02.40.46:428][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.18-02.41.00:978][312]Cmd: DELETE
+[2020.11.18-02.41.00:979][312]Cmd: ACTOR DELETE
+[2020.11.18-02.41.01:202][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-02.41.01:231][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.18-02.41.01:237][312]LogEditorActor: Deleted 1 Actors (0.214 secs)
