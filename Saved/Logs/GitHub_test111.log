@@ -694,3 +694,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-02.41.38:040][449]LogEditorActor: Deleted Actor: StaticMeshActor
 [2020.11.18-02.41.38:048][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2020.11.18-02.41.38:051][449]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2020.11.18-02.41.48:104][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
