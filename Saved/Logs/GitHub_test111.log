@@ -661,3 +661,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-13.55.46:386][419]LogActorFactory: Actor Factory created Cube
 [2020.11.18-13.55.46:619][430]LogActorFactory: Actor Factory created Cube
 [2020.11.18-13.55.55:345][891]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:867).
+[2020.11.18-13.56.12:649][875]LogActorFactory: Actor Factory created Sphere
