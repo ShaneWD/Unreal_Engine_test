@@ -677,3 +677,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-02.41.17:745][239]LogActorFactory: Actor Factory created Cube
 [2020.11.18-02.41.17:875][246]LogActorFactory: Actor Factory created Cube
 [2020.11.18-02.41.33:091][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.18-02.41.35:259][286]Cmd: DELETE
+[2020.11.18-02.41.35:259][286]Cmd: ACTOR DELETE
+[2020.11.18-02.41.35:262][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-02.41.35:271][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.18-02.41.35:274][286]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2020.11.18-02.41.36:147][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.11.18-02.41.36:794][376]Cmd: DELETE
+[2020.11.18-02.41.36:794][376]Cmd: ACTOR DELETE
+[2020.11.18-02.41.36:795][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-02.41.36:803][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.11.18-02.41.36:804][376]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2020.11.18-02.41.37:360][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.11.18-02.41.38:037][449]Cmd: DELETE
+[2020.11.18-02.41.38:037][449]Cmd: ACTOR DELETE
+[2020.11.18-02.41.38:040][449]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-02.41.38:048][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.11.18-02.41.38:051][449]LogEditorActor: Deleted 1 Actors (0.013 secs)
