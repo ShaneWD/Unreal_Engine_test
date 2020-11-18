@@ -671,3 +671,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-16.35.04:876][507]LogActorFactory: Actor Factory created Cylinder
 [2020.11.18-16.35.06:732][617]LogActorFactory: Actor Factory created Cylinder
 [2020.11.18-16.35.18:975][331]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.11.18-16.35.21:942][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
