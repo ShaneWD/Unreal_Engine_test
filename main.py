@@ -13,4 +13,4 @@ while True:
     # time.sleep(10)
     os.system("""git pull """)
     print("""git pull """)
-    print("111")
+    print("looping")
