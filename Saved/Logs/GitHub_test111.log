@@ -752,3 +752,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-16.37.43:136][292]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A1C29C7240), frame # 11292
 [2020.11.18-16.37.43:137][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
 [2020.11.18-16.37.43:192][294]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.11.18-16.38.35:301][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.11.18-16.38.36:638][843]LogSlate: Window 'Save Content' being destroyed
+[2020.11.18-16.38.36:725][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.11.18-16.38.36:758][843]LogSavePackage: Moving '../../../Projects/GitHub_clone_test/clone/Unreal_Engine_test/Saved/Minimal_Default4D725EE446B6141F9952E29039B9F736.tmp' to '../../../Projects/GitHub_clone_test/clone/Unreal_Engine_test/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.11.18-16.38.36:789][843]LogFileHelpers: Saving map 'Minimal_Default' took 0.076
+[2020.11.18-16.38.36:844][843]LogSavePackage: Moving '../../../Projects/GitHub_clone_test/clone/Unreal_Engine_test/Saved/Minimal_Default_BuiltDataDA229F104F1450895528E48D5355A6D6.tmp' to '../../../Projects/GitHub_clone_test/clone/Unreal_Engine_test/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
