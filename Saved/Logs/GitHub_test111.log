@@ -678,3 +678,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-16.35.28:573][848]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder3)
 [2020.11.18-16.35.31:886][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
 [2020.11.18-16.35.33:446][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.18-16.35.34:574][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
