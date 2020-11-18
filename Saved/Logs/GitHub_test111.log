@@ -741,3 +741,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-16.37.18:036][797]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
 [2020.11.18-16.37.18:051][797]PIE: Server logged in
 [2020.11.18-16.37.18:051][797]PIE: Play in editor total start time 0.14 seconds.
+[2020.11.18-16.37.43:103][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.18-16.37.43:103][292]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.11.18-16.37.43:103][292]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.11.18-16.37.43:103][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.18-16.37.43:112][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.18-16.37.43:112][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.18-16.37.43:135][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.18-16.37.43:136][292]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A1B739D200), frame # 11292
+[2020.11.18-16.37.43:136][292]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A1C29C7240), frame # 11292
+[2020.11.18-16.37.43:137][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.11.18-16.37.43:192][294]LogPlayLevel: Display: Destroying online subsystem :Context_3
