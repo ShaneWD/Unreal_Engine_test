@@ -665,3 +665,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-13.56.15:372][ 36]LogActorFactory: Actor Factory created Sphere
 [2020.11.18-13.56.17:425][154]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2020.11.18-13.56.24:450][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.11.18-13.56.32:638][986]Cmd: DELETE
+[2020.11.18-13.56.32:638][986]Cmd: ACTOR DELETE
+[2020.11.18-13.56.32:648][986]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-13.56.32:657][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.11.18-13.56.32:659][986]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.11.18-13.56.33:185][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.18-13.56.33:303][ 23]Cmd: DELETE
+[2020.11.18-13.56.33:303][ 23]Cmd: ACTOR DELETE
+[2020.11.18-13.56.33:305][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-13.56.33:313][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.11.18-13.56.33:313][ 23]LogEditorActor: Deleted 1 Actors (0.010 secs)
