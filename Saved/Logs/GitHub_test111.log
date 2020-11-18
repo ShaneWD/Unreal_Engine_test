@@ -696,3 +696,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-16.36.55:499][773]LogEditorTransaction: Undo Move Actors
 [2020.11.18-16.36.59:863][940]Cmd: TRANSACTION UNDO
 [2020.11.18-16.36.59:863][940]LogEditorTransaction: Undo Move Actors
+[2020.11.18-16.37.02:632][ 18]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
