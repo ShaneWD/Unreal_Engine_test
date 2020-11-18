@@ -667,3 +667,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-03.35.50:416][415]LogEditorActor: Deleted 1 Actors (0.018 secs)
 [2020.11.18-03.36.24:671][ 10]LogActorFactory: Actor Factory created Cube
 [2020.11.18-03.36.25:047][ 22]LogActorFactory: Actor Factory created Cube
+[2020.11.18-03.36.49:323][330]Cmd: DELETE
+[2020.11.18-03.36.49:324][330]Cmd: ACTOR DELETE
+[2020.11.18-03.36.49:329][330]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-03.36.49:346][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.11.18-03.36.49:351][330]LogEditorActor: Deleted 1 Actors (0.026 secs)
