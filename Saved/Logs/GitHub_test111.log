@@ -692,3 +692,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-16.36.49:837][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2020.11.18-16.36.50:723][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
 [2020.11.18-16.36.52:374][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.11.18-16.36.55:499][773]Cmd: TRANSACTION UNDO
+[2020.11.18-16.36.55:499][773]LogEditorTransaction: Undo Move Actors
+[2020.11.18-16.36.59:863][940]Cmd: TRANSACTION UNDO
+[2020.11.18-16.36.59:863][940]LogEditorTransaction: Undo Move Actors
