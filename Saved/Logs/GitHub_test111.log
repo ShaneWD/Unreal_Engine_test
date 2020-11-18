@@ -664,3 +664,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-02.41.01:202][312]LogEditorActor: Deleted Actor: StaticMeshActor
 [2020.11.18-02.41.01:231][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2020.11.18-02.41.01:237][312]LogEditorActor: Deleted 1 Actors (0.214 secs)
+[2020.11.18-02.41.13:682][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.11.18-02.41.14:484][101]Cmd: DELETE
+[2020.11.18-02.41.14:484][101]Cmd: ACTOR DELETE
+[2020.11.18-02.41.14:486][101]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.18-02.41.14:495][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.11.18-02.41.14:496][101]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2020.11.18-02.41.16:293][184]LogActorFactory: Actor Factory created Cube
+[2020.11.18-02.41.16:377][188]LogActorFactory: Actor Factory created Cube
+[2020.11.18-02.41.16:896][205]LogActorFactory: Actor Factory created Cube
