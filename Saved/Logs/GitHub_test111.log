@@ -641,3 +641,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.39.49:522][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.11.19-18.39.49:536][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.11.19-18.39.49:551][  0]LogCollectionManager: Loaded 0 collections in 0.001130 seconds
+[2020.11.19-18.39.49:950][  0]LogFileCache: Scanning file cache for directory 'D:/Games/UE_4.25/Projects/GitHub_clone_test/clone/Unreal_Engine_test/Saved/Collections/' took 0.00s
+[2020.11.19-18.39.49:950][  0]LogFileCache: Scanning file cache for directory 'D:/Games/UE_4.25/Projects/GitHub_clone_test/clone/Unreal_Engine_test/Content/Developers/22sha/Collections/' took 0.00s
+[2020.11.19-18.39.49:950][  0]LogFileCache: Scanning file cache for directory 'D:/Games/UE_4.25/Projects/GitHub_clone_test/clone/Unreal_Engine_test/Content/Collections/' took 0.00s
+[2020.11.19-18.39.49:950][  0]LogContentBrowser: Native class hierarchy populated in 0.0213 seconds. Added 3427 classes and 821 folders.
+[2020.11.19-18.39.49:989][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.19-18.39.50:119][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.11.19-18.39.50:124][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2020.11.19-18.39.50:430][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.19-18.39.50:430][  0]LogLoad: (Engine Initialization) Total time: 22.39 seconds
+[2020.11.19-18.39.50:430][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.19-18.39.50:570][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.19-18.39.50:577][  0]LogSlate: Took 0.001160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.19-18.39.50:581][  0]LogSlate: Took 0.000958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.19-18.39.50:592][  0]LogSlate: Took 0.000615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.19-18.39.50:826][  0]LogSlate: Took 0.000671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.19-18.39.50:862][  1]LogRenderer: Reallocating scene render targets to support 812x368 Format 10 NumSamples 1 (Frame:1).
+[2020.11.19-18.39.50:915][  1]LogAssetRegistry: Asset discovery search completed in 13.2435 seconds
+[2020.11.19-18.39.50:928][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000095 seconds (updated 0 objects)
