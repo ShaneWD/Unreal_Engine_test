@@ -608,3 +608,36 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.39.45:589][  0]LogEngineSessionManager: EngineSessionManager initialized
 [2020.11.19-18.39.45:589][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
 [2020.11.19-18.39.45:596][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.19-18.39.45:808][  0]LogInit: Transaction tracking system initialized
+[2020.11.19-18.39.45:915][  0]BlueprintLog: New page: Editor Load
+[2020.11.19-18.39.46:412][  0]LocalizationService: Localization service is disabled
+[2020.11.19-18.39.46:924][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.19-18.39.46:925][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.19-18.39.47:230][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.19-18.39.47:230][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.19-18.39.47:528][  0]LogFileCache: Scanning file cache for directory 'D:/Games/UE_4.25/Projects/GitHub_clone_test/clone/Unreal_Engine_test/Content/' took 0.01s
+[2020.11.19-18.39.48:349][  0]SourceControl: Source control is disabled
+[2020.11.19-18.39.48:350][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.307
+[2020.11.19-18.39.48:352][  0]Cmd: MAP LOAD FILE="../../../Projects/GitHub_clone_test/clone/Unreal_Engine_test/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.19-18.39.48:356][  0]LightingResults: New page: Lighting Build
+[2020.11.19-18.39.48:365][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.19-18.39.48:368][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.19-18.39.48:370][  0]MapCheck: New page: Map Check
+[2020.11.19-18.39.48:370][  0]LightingResults: New page: Lighting Build
+[2020.11.19-18.39.48:438][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000208D5DEC600), frame # 0
+[2020.11.19-18.39.48:438][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000208D5E10A40), frame # 0
+[2020.11.19-18.39.48:440][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.11.19-18.39.49:020][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.11.19-18.39.49:020][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000208DEFAC200), frame # 0
+[2020.11.19-18.39.49:020][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000208DEDED440), frame # 0
+[2020.11.19-18.39.49:051][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.11.19-18.39.49:090][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.11.19-18.39.49:090][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.19-18.39.49:091][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.268ms to complete.
+[2020.11.19-18.39.49:091][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.741
+[2020.11.19-18.39.49:227][  0]LogUnrealEdMisc: Total Editor Startup Time, took 21.184
+[2020.11.19-18.39.49:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.19-18.39.49:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.19-18.39.49:522][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.19-18.39.49:536][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.19-18.39.49:551][  0]LogCollectionManager: Loaded 0 collections in 0.001130 seconds
