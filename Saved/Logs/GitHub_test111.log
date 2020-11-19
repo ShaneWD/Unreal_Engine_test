@@ -557,3 +557,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.37.55:255][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
 [2020.11.19-18.37.55:275][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
 [2020.11.19-18.37.55:275][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.19-18.38.04:500][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.19-18.38.04:604][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.19-18.38.05:964][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.11.19-18.38.05:977][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.11.19-18.38.05:978][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
