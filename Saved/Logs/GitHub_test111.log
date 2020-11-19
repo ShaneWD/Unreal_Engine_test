@@ -648,3 +648,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.39.57:308][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fastw/Desktop/Apps to not worry about/New folder/Unreal_Engine_test/Content/Collections/' took 0.00s
 [2020.11.19-18.39.57:308][  0]LogContentBrowser: Native class hierarchy populated in 0.0388 seconds. Added 3427 classes and 821 folders.
 [2020.11.19-18.39.57:756][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.11.19-18.40.01:064][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.11.19-18.40.01:192][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2020.11.19-18.40.03:822][  0]LogSlate: The tab "ConcertBrowser" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2020.11.19-18.40.04:281][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.19-18.40.04:281][  0]LogLoad: (Engine Initialization) Total time: 267.71 seconds
+[2020.11.19-18.40.04:281][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.19-18.40.06:847][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.19-18.40.07:569][  0]LogSlate: Took 0.055830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.19-18.40.07:691][  0]LogSlate: Took 0.116569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.19-18.40.07:789][  0]LogSlate: Took 0.030980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
