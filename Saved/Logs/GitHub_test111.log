@@ -868,3 +868,5 @@ BP_Sky_Sphere
 [2020.11.19-18.47.39:619][974]LogNavigationPoint: PostEditMove Clear paths rebuilt
 [2020.11.19-18.48.04:252][ 21]LogActorFactory: Actor Factory created Wall_500x500
 [2020.11.19-18.48.05:647][ 96]LogActorFactory: Actor Factory created Wall_500x500
+[2020.11.19-18.48.19:644][ 55]Cmd: EDIT COPY
+[2020.11.19-18.48.20:568][114]Cmd: EDIT PASTE
