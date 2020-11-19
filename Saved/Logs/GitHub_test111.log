@@ -874,3 +874,5 @@ BP_Sky_Sphere
 [2020.11.19-18.48.25:076][397]Cmd: EDIT PASTE
 [2020.11.19-18.48.44:340][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x501)
 [2020.11.19-18.48.57:178][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x500)
+[2020.11.19-18.49.02:204][ 70]LogActorFactory: Actor Factory created Wall_Door_400x400
+[2020.11.19-18.49.03:323][143]LogActorFactory: Actor Factory created Wall_Door_400x400
