@@ -674,3 +674,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-15.25.25:471][397]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2020.11.19-15.25.47:618][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
 [2020.11.19-15.25.49:008][126]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.11.19-15.26.04:242][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
