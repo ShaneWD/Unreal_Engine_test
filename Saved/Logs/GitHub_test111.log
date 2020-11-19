@@ -557,3 +557,54 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.39.40:465][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
 [2020.11.19-18.39.41:763][  0]LogTcpMessaging: Initializing TcpMessaging bridge
 [2020.11.19-18.39.41:772][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.19-18.39.42:112][  0]SourceControl: Source control is disabled
+[2020.11.19-18.39.42:113][  0]SourceControl: Source control is disabled
+[2020.11.19-18.39.42:154][  0]SourceControl: Source control is disabled
+[2020.11.19-18.39.42:167][  0]SourceControl: Source control is disabled
+[2020.11.19-18.39.42:220][  0]SourceControl: Source control is disabled
+[2020.11.19-18.39.42:280][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.19-18.39.42:281][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.19-18.39.43:512][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.19-18.39.43:582][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.19-18.39.43:582][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.19-18.39.43:792][  0]LogOcInput: OculusInput pre-init called
+[2020.11.19-18.39.43:859][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.19-18.39.43:859][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.19-18.39.44:194][  0]LogEngine: Initializing Engine...
+[2020.11.19-18.39.44:223][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.19-18.39.44:223][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.19-18.39.44:226][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.19-18.39.44:616][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.19-18.39.44:703][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.19-18.39.44:703][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000208D5DEC600), frame # 0
+[2020.11.19-18.39.44:703][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000208D5E10A40), frame # 0
+[2020.11.19-18.39.44:725][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.19-18.39.44:725][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.19-18.39.44:725][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.19-18.39.44:725][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.19-18.39.44:725][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.19-18.39.44:725][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.19-18.39.44:725][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.19-18.39.44:726][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.19-18.39.44:730][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.19-18.39.44:730][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.19-18.39.44:941][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.19-18.39.44:941][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.19-18.39.44:941][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.19-18.39.44:941][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.19-18.39.44:941][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.11.19-18.39.44:941][  0]LogAudioMixer: Display: 5: BackRight
+[2020.11.19-18.39.44:941][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.11.19-18.39.44:941][  0]LogAudioMixer: Display: 7: SideRight
+[2020.11.19-18.39.45:272][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.19-18.39.45:276][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.19-18.39.45:280][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.19-18.39.45:280][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.19-18.39.45:282][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.19-18.39.45:284][  0]LogInit: FAudioDevice initialized.
+[2020.11.19-18.39.45:285][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.19-18.39.45:533][  0]LogDerivedDataCache: Saved boot cache 0.25s 75MB C:/Users/22sha/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.19-18.39.45:542][  0]LogInit: Texture streaming: Enabled
+[2020.11.19-18.39.45:589][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.19-18.39.45:589][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.19-18.39.45:596][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
