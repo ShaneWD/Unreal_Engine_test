@@ -863,3 +863,5 @@ BP_Sky_Sphere
 [2020.11.19-18.46.43:863][593]LogEditorTransaction: Undo Create Actors
 [2020.11.19-18.46.46:906][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
 [2020.11.19-18.46.59:036][796]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.11.19-18.47.02:616][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.11.19-18.47.11:984][775]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
