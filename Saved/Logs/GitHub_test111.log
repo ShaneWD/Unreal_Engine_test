@@ -866,3 +866,5 @@ BP_Sky_Sphere
 [2020.11.19-18.47.02:616][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
 [2020.11.19-18.47.11:984][775]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2020.11.19-18.47.39:619][974]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.11.19-18.48.04:252][ 21]LogActorFactory: Actor Factory created Wall_500x500
+[2020.11.19-18.48.05:647][ 96]LogActorFactory: Actor Factory created Wall_500x500
