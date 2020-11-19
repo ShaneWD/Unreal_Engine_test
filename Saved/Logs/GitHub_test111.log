@@ -682,3 +682,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-15.26.28:135][ 29]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.19-15.26.28:135][ 29]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2020.11.19-15.26.28:135][ 29]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.11.19-15.26.45:451][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.11.19-15.26.45:496][761]LogSavePackage: Moving '../../../Projects/GitHub_clone_test/1.1/Unreal_Engine_test/Saved/Minimal_DefaultAD8233904BA5006982C4B187E5DB8014.tmp' to '../../../Projects/GitHub_clone_test/1.1/Unreal_Engine_test/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.11.19-15.26.45:589][761]LogSavePackage: Moving '../../../Projects/GitHub_clone_test/1.1/Unreal_Engine_test/Saved/Minimal_Default_BuiltData4427722B40E6BC70FCEED7ABADF2F3A5.tmp' to '../../../Projects/GitHub_clone_test/1.1/Unreal_Engine_test/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.11.19-15.26.45:630][761]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.19-15.26.45:630][761]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.11.19-15.26.45:630][761]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
