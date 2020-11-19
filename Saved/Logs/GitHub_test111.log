@@ -745,3 +745,31 @@ BP_Sky_Sphere
 [2020.11.19-18.44.59:368][217]LogEditorActor: Deleted Actor: StaticMeshActor
 [2020.11.19-18.44.59:594][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
 [2020.11.19-18.44.59:596][217]LogEditorActor: Deleted 14 Actors (0.797 secs)
+[2020.11.19-18.45.05:817][899]Cmd: TRANSACTION UNDO
+[2020.11.19-18.45.05:817][899]LogEditorTransaction: Undo Delete Actors
+[2020.11.19-18.45.07:875][899]LogEditorViewport: Clicking Background
+[2020.11.19-18.45.10:995][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.11.19-18.45.11:846][237]Cmd: DELETE
+[2020.11.19-18.45.11:846][237]Cmd: ACTOR DELETE
+[2020.11.19-18.45.11:849][237]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.45.12:059][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.11.19-18.45.12:062][237]LogEditorActor: Deleted 1 Actors (0.216 secs)
+[2020.11.19-18.45.12:246][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.19-18.45.12:597][259]Cmd: DELETE
+[2020.11.19-18.45.12:597][259]Cmd: ACTOR DELETE
+[2020.11.19-18.45.12:599][259]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.45.12:767][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.19-18.45.12:770][259]LogEditorActor: Deleted 1 Actors (0.173 secs)
+[2020.11.19-18.45.13:034][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.19-18.45.13:125][289]Cmd: DELETE
+[2020.11.19-18.45.13:125][289]Cmd: ACTOR DELETE
+[2020.11.19-18.45.13:128][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.45.13:158][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.19-18.45.13:162][289]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.11.19-18.45.13:611][333]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.11.19-18.45.14:243][334]Cmd: DELETE
+[2020.11.19-18.45.14:243][334]Cmd: ACTOR DELETE
+[2020.11.19-18.45.14:247][334]LogEditorActor: Deleted Actor: PlayerStart
+[2020.11.19-18.45.14:277][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.19-18.45.14:280][334]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.11.19-18.45.14:283][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
