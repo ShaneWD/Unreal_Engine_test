@@ -620,3 +620,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.39.29:580][  0]LogUnrealEdMisc: Loading editor; pre map load, took 233.010
 [2020.11.19-18.39.29:806][  0]Cmd: MAP LOAD FILE="../../../../../../Users/fastw/Desktop/Apps to not worry about/New folder/Unreal_Engine_test/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
 [2020.11.19-18.39.29:869][  0]LightingResults: New page: Lighting Build
+[2020.11.19-18.39.30:826][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.19-18.39.30:967][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.19-18.39.31:326][  0]MapCheck: New page: Map Check
+[2020.11.19-18.39.31:326][  0]LightingResults: New page: Lighting Build
+[2020.11.19-18.39.33:934][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A97A8DC00), frame # 0
+[2020.11.19-18.39.33:934][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A97AC25C0), frame # 0
+[2020.11.19-18.39.34:020][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
