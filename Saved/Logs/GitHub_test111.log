@@ -616,3 +616,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.38.57:147][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fastw/Desktop/Apps to not worry about/New folder/Unreal_Engine_test/Content/' took 0.12s
 [2020.11.19-18.38.57:147][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
 [2020.11.19-18.38.57:148][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.19-18.39.29:556][  0]SourceControl: Source control is disabled
+[2020.11.19-18.39.29:580][  0]LogUnrealEdMisc: Loading editor; pre map load, took 233.010
+[2020.11.19-18.39.29:806][  0]Cmd: MAP LOAD FILE="../../../../../../Users/fastw/Desktop/Apps to not worry about/New folder/Unreal_Engine_test/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.19-18.39.29:869][  0]LightingResults: New page: Lighting Build
