@@ -570,3 +570,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.38.07:480][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
 [2020.11.19-18.38.07:482][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
 [2020.11.19-18.38.12:571][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.19-18.38.13:006][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.19-18.38.13:007][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.19-18.38.14:311][  0]LogOcInput: OculusInput pre-init called
+[2020.11.19-18.38.14:747][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.19-18.38.14:747][  0]LogWindows: File 'OVRPlugin.dll' does not exist
