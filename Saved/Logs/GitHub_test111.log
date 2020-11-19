@@ -637,3 +637,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.39.47:456][  0]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.11.19-18.39.47:529][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.508ms to complete.
 [2020.11.19-18.39.47:529][  0]LogFileHelpers: Loading map 'Minimal_Default' took 17.853
+[2020.11.19-18.39.53:096][  0]LogUnrealEdMisc: Total Editor Startup Time, took 256.527
