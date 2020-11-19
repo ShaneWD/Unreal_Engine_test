@@ -542,3 +542,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.39.37:611][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
 [2020.11.19-18.39.37:672][  0]LogAssetRegistry: FAssetRegistry took 0.0043 seconds to start up
 [2020.11.19-18.39.38:098][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.19-18.39.38:728][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.19-18.39.38:728][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.19-18.39.38:728][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.19-18.39.38:729][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.19-18.39.38:729][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.19-18.39.38:780][  0]LogNetVersion: GitHub_test111 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2197861447)
+[2020.11.19-18.39.40:265][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000208EB69AA00), frame # 0
+[2020.11.19-18.39.40:265][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000208EB570180), frame # 0
+[2020.11.19-18.39.40:277][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000208EB57DC00), frame # 0
+[2020.11.19-18.39.40:450][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.145111 seconds
+[2020.11.19-18.39.40:464][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.19-18.39.40:465][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.19-18.39.40:465][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.19-18.39.41:763][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.19-18.39.41:772][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
