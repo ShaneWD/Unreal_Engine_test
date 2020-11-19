@@ -562,3 +562,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.38.05:964][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
 [2020.11.19-18.38.05:977][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
 [2020.11.19-18.38.05:978][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.11.19-18.38.07:090][  0]SourceControl: Source control is disabled
+[2020.11.19-18.38.07:091][  0]SourceControl: Source control is disabled
+[2020.11.19-18.38.07:258][  0]SourceControl: Source control is disabled
+[2020.11.19-18.38.07:282][  0]SourceControl: Source control is disabled
+[2020.11.19-18.38.07:323][  0]SourceControl: Source control is disabled
+[2020.11.19-18.38.07:480][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.19-18.38.07:482][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.19-18.38.12:571][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
