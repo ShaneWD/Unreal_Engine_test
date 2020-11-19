@@ -603,3 +603,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.38.24:100][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
 [2020.11.19-18.38.24:101][  0]LogInit: FAudioDevice initialized.
 [2020.11.19-18.38.24:167][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.19-18.38.25:347][  0]LogDerivedDataCache: Saved boot cache 1.18s 76MB C:/Users/fastw/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.19-18.38.25:354][  0]LogInit: Texture streaming: Enabled
+[2020.11.19-18.38.26:216][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.19-18.38.26:216][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.19-18.38.26:633][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.19-18.38.29:065][  0]LogInit: Transaction tracking system initialized
