@@ -662,3 +662,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.40.11:082][  0]LogSlate: Took 0.340107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.11.19-18.40.14:705][  3]LogAssetRegistry: Asset discovery search completed in 188.7082 seconds
 [2020.11.19-18.40.14:812][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.020715 seconds (updated 0 objects)
+[2020.11.19-18.40.54:960][222]LogRenderer: Reallocating scene render targets to support 1112x600 Format 10 NumSamples 1 (Frame:105).
