@@ -836,3 +836,16 @@ BP_Sky_Sphere
 [2020.11.19-18.45.56:688][228]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
 [2020.11.19-18.45.56:918][228]PIE: Server logged in
 [2020.11.19-18.45.56:989][228]PIE: Play in editor total start time 2.541 seconds.
+[2020.11.19-18.46.17:231][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.19-18.46.17:338][560]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.11.19-18.46.17:934][560]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.11.19-18.46.17:934][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.19-18.46.18:068][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.19-18.46.18:561][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.19-18.46.19:031][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.19-18.46.19:607][560]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017AC201EE00), frame # 14560
+[2020.11.19-18.46.19:607][560]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017AAC1E3D80), frame # 14560
+[2020.11.19-18.46.19:645][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.11.19-18.46.19:735][561]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.11.19-18.46.27:383][349]LogActorFactory: Actor Factory created Cylinder
+[2020.11.19-18.46.28:196][404]LogActorFactory: Actor Factory created Cylinder
