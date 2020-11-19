@@ -659,3 +659,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-15.15.49:273][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.11.19-15.15.49:298][  2]LogRenderer: Reallocating scene render targets to support 812x368 Format 10 NumSamples 1 (Frame:1).
 [2020.11.19-15.16.07:176][344]LogRenderer: Reallocating scene render targets to support 812x444 Format 10 NumSamples 1 (Frame:311).
+[2020.11.19-15.16.28:378][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
