@@ -671,3 +671,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.43.06:823][625]Cmd: TRANSACTION UNDO
 [2020.11.19-18.43.06:823][625]LogEditorTransaction: Undo Move Actors
 [2020.11.19-18.43.08:431][625]LogSlate: Took 0.018234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.19-18.44.00:111][257]Cmd: ACTOR SELECT ALL
