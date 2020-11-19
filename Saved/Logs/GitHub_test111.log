@@ -632,3 +632,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.39.43:312][  0]LogAIModule: Creating AISystem for world Minimal_Default
 [2020.11.19-18.39.43:312][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A85C29000), frame # 0
 [2020.11.19-18.39.43:312][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A85C53100), frame # 0
+[2020.11.19-18.39.45:854][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.19-18.39.47:408][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.11.19-18.39.47:456][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.19-18.39.47:529][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.508ms to complete.
+[2020.11.19-18.39.47:529][  0]LogFileHelpers: Loading map 'Minimal_Default' took 17.853
