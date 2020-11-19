@@ -613,3 +613,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.38.39:984][  0]LocalizationService: Localization service is disabled
 [2020.11.19-18.38.49:537][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
 [2020.11.19-18.38.49:537][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.19-18.38.57:147][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fastw/Desktop/Apps to not worry about/New folder/Unreal_Engine_test/Content/' took 0.12s
+[2020.11.19-18.38.57:147][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.19-18.38.57:148][  0]LogCook: Display: Mobile HDR setting 1
