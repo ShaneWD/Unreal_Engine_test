@@ -710,3 +710,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.44.15:225][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
 [2020.11.19-18.44.15:229][968]LogEditorActor: Deleted 1 Actors (0.034 secs)
 [2020.11.19-18.44.35:414][ 86]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.11.19-18.44.42:875][501]Cmd: DELETE
+[2020.11.19-18.44.42:875][501]Cmd: ACTOR DELETE
+[2020.11.19-18.44.42:878][501]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2020.11.19-18.44.43:348][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.11.19-18.44.43:352][501]LogEditorActor: Deleted 1 Actors (0.477 secs)
