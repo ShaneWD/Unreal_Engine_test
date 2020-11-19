@@ -773,3 +773,28 @@ BP_Sky_Sphere
 [2020.11.19-18.45.14:277][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2020.11.19-18.45.14:280][334]LogEditorActor: Deleted 1 Actors (0.036 secs)
 [2020.11.19-18.45.14:283][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2020.11.19-18.45.14:740][336]Cmd: DELETE
+[2020.11.19-18.45.14:740][336]Cmd: ACTOR DELETE
+[2020.11.19-18.45.14:742][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.45.14:773][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.11.19-18.45.14:778][336]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.11.19-18.45.14:884][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.11.19-18.45.15:033][350]Cmd: DELETE
+[2020.11.19-18.45.15:033][350]Cmd: ACTOR DELETE
+[2020.11.19-18.45.15:034][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.45.15:067][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.11.19-18.45.15:070][350]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.11.19-18.45.15:334][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2020.11.19-18.45.15:435][380]Cmd: DELETE
+[2020.11.19-18.45.15:435][380]Cmd: ACTOR DELETE
+[2020.11.19-18.45.15:437][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.45.15:466][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.19-18.45.15:469][380]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.11.19-18.45.15:769][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.11.19-18.45.16:116][436]Cmd: DELETE
+[2020.11.19-18.45.16:116][436]Cmd: ACTOR DELETE
+[2020.11.19-18.45.16:120][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.45.16:148][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.11.19-18.45.16:152][436]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.11.19-18.45.20:697][807]LogActorFactory: Actor Factory created Cube
+[2020.11.19-18.45.22:369][895]LogActorFactory: Actor Factory created Cube
