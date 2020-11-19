@@ -609,3 +609,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.38.26:216][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
 [2020.11.19-18.38.26:633][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
 [2020.11.19-18.38.29:065][  0]LogInit: Transaction tracking system initialized
+[2020.11.19-18.38.32:070][  0]BlueprintLog: New page: Editor Load
