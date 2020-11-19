@@ -460,3 +460,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.36.31:182][  0]LogInit: Using OS detected language (en-US).
 [2020.11.19-18.36.31:182][  0]LogInit: Using OS detected locale (en-US).
 [2020.11.19-18.36.31:278][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.11.19-18.36.33:346][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.19-18.36.34:261][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.19-18.36.34:261][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
