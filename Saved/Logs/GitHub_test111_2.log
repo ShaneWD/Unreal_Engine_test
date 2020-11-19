@@ -661,3 +661,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-15.16.07:176][344]LogRenderer: Reallocating scene render targets to support 812x444 Format 10 NumSamples 1 (Frame:311).
 [2020.11.19-15.16.28:378][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
 [2020.11.19-15.16.43:523][344]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.11.19-15.18.45:343][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder4)
