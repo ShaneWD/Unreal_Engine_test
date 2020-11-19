@@ -672,3 +672,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.43.06:823][625]LogEditorTransaction: Undo Move Actors
 [2020.11.19-18.43.08:431][625]LogSlate: Took 0.018234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.11.19-18.44.00:111][257]Cmd: ACTOR SELECT ALL
+[2020.11.19-18.44.02:735][257]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.11.19-18.44.07:148][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
+[2020.11.19-18.44.08:738][659]Cmd: DELETE
+[2020.11.19-18.44.08:739][659]Cmd: ACTOR DELETE
+[2020.11.19-18.44.09:866][659]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.44.10:821][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.11.19-18.44.10:830][659]LogEditorActor: Deleted 1 Actors (1.498 secs)
+[2020.11.19-18.44.12:368][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2020.11.19-18.44.12:604][826]Cmd: DELETE
+[2020.11.19-18.44.12:604][826]Cmd: ACTOR DELETE
+[2020.11.19-18.44.12:607][826]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.44.12:636][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.11.19-18.44.12:638][826]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.11.19-18.44.13:043][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder4)
+[2020.11.19-18.44.13:210][872]Cmd: DELETE
+[2020.11.19-18.44.13:210][872]Cmd: ACTOR DELETE
+[2020.11.19-18.44.13:213][872]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.44.13:241][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.19-18.44.13:245][872]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.11.19-18.44.13:685][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
