@@ -611,3 +611,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.38.29:065][  0]LogInit: Transaction tracking system initialized
 [2020.11.19-18.38.32:070][  0]BlueprintLog: New page: Editor Load
 [2020.11.19-18.38.39:984][  0]LocalizationService: Localization service is disabled
+[2020.11.19-18.38.49:537][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.19-18.38.49:537][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
