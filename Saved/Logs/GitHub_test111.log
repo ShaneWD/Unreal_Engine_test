@@ -709,3 +709,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.44.15:197][968]LogEditorActor: Deleted Actor: StaticMeshActor
 [2020.11.19-18.44.15:225][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
 [2020.11.19-18.44.15:229][968]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.11.19-18.44.35:414][ 86]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
