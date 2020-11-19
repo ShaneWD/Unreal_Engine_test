@@ -638,3 +638,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.39.47:529][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.508ms to complete.
 [2020.11.19-18.39.47:529][  0]LogFileHelpers: Loading map 'Minimal_Default' took 17.853
 [2020.11.19-18.39.53:096][  0]LogUnrealEdMisc: Total Editor Startup Time, took 256.527
+[2020.11.19-18.39.56:068][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.19-18.39.56:121][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.19-18.39.56:134][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.19-18.39.56:150][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.19-18.39.56:662][  0]LogCollectionManager: Loaded 0 collections in 0.002386 seconds
+[2020.11.19-18.39.57:308][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fastw/Desktop/Apps to not worry about/New folder/Unreal_Engine_test/Saved/Collections/' took 0.00s
+[2020.11.19-18.39.57:308][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fastw/Desktop/Apps to not worry about/New folder/Unreal_Engine_test/Content/Developers/fastw/Collections/' took 0.00s
+[2020.11.19-18.39.57:308][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fastw/Desktop/Apps to not worry about/New folder/Unreal_Engine_test/Content/Collections/' took 0.00s
+[2020.11.19-18.39.57:308][  0]LogContentBrowser: Native class hierarchy populated in 0.0388 seconds. Added 3427 classes and 821 folders.
+[2020.11.19-18.39.57:756][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
