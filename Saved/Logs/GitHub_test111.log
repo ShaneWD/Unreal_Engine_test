@@ -527,3 +527,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.36.53:522][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 [2020.11.19-18.36.53:522][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
 [2020.11.19-18.36.53:522][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.19-18.37.02:759][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.19-18.37.03:461][  0]LogDerivedDataCache: Loaded boot cache 0.69s 76MB C:/Users/fastw/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.19-18.37.03:462][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fastw/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.19-18.37.03:462][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/fastw/Desktop/Apps to not worry about/New folder/Unreal_Engine_test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.19-18.37.03:462][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.19-18.37.03:462][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/fastw/Desktop/Apps to not worry about/New folder/Unreal_Engine_test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.19-18.37.03:462][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.19-18.37.03:923][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.19-18.37.03:923][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.19-18.37.03:923][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.19-18.37.03:940][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fastw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.19-18.37.03:940][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.19-18.37.03:940][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.19-18.37.04:278][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.19-18.37.04:553][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.19-18.37.06:001][  0]LogAssetRegistry: FAssetRegistry took 0.0179 seconds to start up
