@@ -627,3 +627,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.39.33:934][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017A97A8DC00), frame # 0
 [2020.11.19-18.39.33:934][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A97AC25C0), frame # 0
 [2020.11.19-18.39.34:020][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.11.19-18.39.41:205][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.11.19-18.39.41:458][  0]LogStaticMesh: Built static mesh [0.31s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.11.19-18.39.43:312][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.11.19-18.39.43:312][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A85C29000), frame # 0
+[2020.11.19-18.39.43:312][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A85C53100), frame # 0
