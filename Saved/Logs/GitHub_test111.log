@@ -849,3 +849,16 @@ BP_Sky_Sphere
 [2020.11.19-18.46.19:735][561]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2020.11.19-18.46.27:383][349]LogActorFactory: Actor Factory created Cylinder
 [2020.11.19-18.46.28:196][404]LogActorFactory: Actor Factory created Cylinder
+[2020.11.19-18.46.41:143][410]Cmd: TRANSACTION UNDO
+[2020.11.19-18.46.41:144][410]LogEditorTransaction: Undo Scale Actors
+[2020.11.19-18.46.41:576][426]Cmd: TRANSACTION UNDO
+[2020.11.19-18.46.41:576][426]LogEditorTransaction: Undo Scale Actors
+[2020.11.19-18.46.42:731][509]Cmd: TRANSACTION UNDO
+[2020.11.19-18.46.42:731][509]LogEditorTransaction: Undo Scale Actors
+[2020.11.19-18.46.43:119][538]Cmd: TRANSACTION UNDO
+[2020.11.19-18.46.43:119][538]LogEditorTransaction: Undo Scale Actors
+[2020.11.19-18.46.43:483][563]Cmd: TRANSACTION UNDO
+[2020.11.19-18.46.43:483][563]LogEditorTransaction: Undo Scale Actors
+[2020.11.19-18.46.43:863][593]Cmd: TRANSACTION UNDO
+[2020.11.19-18.46.43:863][593]LogEditorTransaction: Undo Create Actors
+[2020.11.19-18.46.46:906][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
