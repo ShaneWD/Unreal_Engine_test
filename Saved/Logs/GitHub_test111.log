@@ -463,3 +463,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.36.33:346][  0]LogInit: Setting process to per monitor DPI aware
 [2020.11.19-18.36.34:261][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
 [2020.11.19-18.36.34:261][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.19-18.36.46:691][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.19-18.36.46:691][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.19-18.36.46:692][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.19-18.36.46:692][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.19-18.36.47:196][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) RX 560 Series' (Feature Level 11_0)
+[2020.11.19-18.36.47:196][  0]LogD3D11RHI:       2027/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.11.19-18.36.47:229][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.19-18.36.47:229][  0]LogD3D11RHI:       0/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.19-18.36.47:229][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.19-18.36.47:289][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.19-18.36.47:289][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2020.11.19-18.36.47:297][  0]LogWindows: EnumDisplayDevices:
+[2020.11.19-18.36.47:297][  0]LogWindows:    0. 'AMD Radeon(TM) RX 560 Series' (P:1 D:1)
+[2020.11.19-18.36.47:298][  0]LogWindows:    1. 'AMD Radeon(TM) RX 560 Series' (P:0 D:0)
+[2020.11.19-18.36.47:299][  0]LogWindows:    2. 'AMD Radeon(TM) RX 560 Series' (P:0 D:0)
+[2020.11.19-18.36.47:300][  0]LogWindows:    3. 'AMD Radeon(TM) RX 560 Series' (P:0 D:0)
+[2020.11.19-18.36.47:300][  0]LogWindows:    4. 'AMD Radeon(TM) RX 560 Series' (P:0 D:0)
+[2020.11.19-18.36.47:301][  0]LogWindows:    5. 'AMD Radeon(TM) RX 560 Series' (P:0 D:0)
+[2020.11.19-18.36.47:302][  0]LogWindows:    6. 'AMD Radeon(TM) RX 560 Series' (P:0 D:0)
+[2020.11.19-18.36.47:302][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2020.11.19-18.36.47:302][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) RX 560 Series
+[2020.11.19-18.36.47:302][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.8.2 (internal:27.20.2001.16003, unified:27.20.2001.16003)
+[2020.11.19-18.36.47:302][  0]LogD3D11RHI:      Driver Date: 8-11-2020
+[2020.11.19-18.36.47:312][  0]LogRHI: Texture pool is 1206 MB (70% of 1723 MB)
+[2020.11.19-18.36.47:705][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.19-18.36.47:705][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.19-18.36.47:705][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.11.19-18.36.48:310][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
