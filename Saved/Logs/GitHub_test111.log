@@ -460,3 +460,85 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.39.32:974][  0]LogInit: Using OS detected language (en-US).
 [2020.11.19-18.39.32:974][  0]LogInit: Using OS detected locale (en-US).
 [2020.11.19-18.39.32:982][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.11.19-18.39.33:569][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.19-18.39.33:569][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.19-18.39.33:907][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.19-18.39.33:907][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.19-18.39.33:907][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.19-18.39.33:907][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.19-18.39.34:780][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.11.19-18.39.34:781][  0]LogD3D11RHI:       4021/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.11.19-18.39.34:815][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.11.19-18.39.34:815][  0]LogD3D11RHI:       128/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.11.19-18.39.34:819][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.19-18.39.34:819][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.19-18.39.34:819][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.19-18.39.34:831][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.19-18.39.34:831][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.11.19-18.39.34:831][  0]LogWindows: EnumDisplayDevices:
+[2020.11.19-18.39.34:831][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.11.19-18.39.34:832][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.11.19-18.39.34:832][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.11.19-18.39.34:832][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.11.19-18.39.34:832][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.11.19-18.39.34:832][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.11.19-18.39.34:832][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.11.19-18.39.34:832][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.11.19-18.39.34:935][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.19-18.39.34:941][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.11.19-18.39.34:941][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.19-18.39.34:941][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.11.19-18.39.34:984][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.19-18.39.35:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.19-18.39.35:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.19-18.39.35:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.19-18.39.35:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.19-18.39.35:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.19-18.39.35:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.19-18.39.35:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.19-18.39.35:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.19-18.39.35:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.19-18.39.35:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.19-18.39.35:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.19-18.39.35:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.19-18.39.35:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.19-18.39.35:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.19-18.39.35:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.19-18.39.35:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.19-18.39.35:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.19-18.39.35:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.19-18.39.35:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.19-18.39.35:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.19-18.39.35:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.19-18.39.35:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.19-18.39.35:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.19-18.39.35:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.19-18.39.35:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.19-18.39.35:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.19-18.39.35:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.19-18.39.35:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.19-18.39.35:978][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.19-18.39.35:994][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.19-18.39.36:193][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../Projects/GitHub_clone_test/clone/Unreal_Engine_test/Intermediate/Shaders/WorkingDirectory/27952/).
+[2020.11.19-18.39.36:194][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/22sha/AppData/Local/Temp/UnrealShaderWorkingDir/1857A9CF43934E5A7AB47C9162F18FB0/'.
+[2020.11.19-18.39.36:195][  0]LogXGEController: Cleaning working directory: C:/Users/22sha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.19-18.39.36:195][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.19-18.39.36:195][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.19-18.39.36:195][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.19-18.39.37:078][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.19-18.39.37:507][  0]LogDerivedDataCache: Loaded boot cache 0.43s 75MB C:/Users/22sha/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.19-18.39.37:507][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/22sha/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.19-18.39.37:507][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../Projects/GitHub_clone_test/clone/Unreal_Engine_test/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.19-18.39.37:507][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.19-18.39.37:507][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../Projects/GitHub_clone_test/clone/Unreal_Engine_test/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.19-18.39.37:507][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.19-18.39.37:522][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.19-18.39.37:522][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.19-18.39.37:522][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.19-18.39.37:524][  0]LogDerivedDataCache: Using Local data cache path C:/Users/22sha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.19-18.39.37:524][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.19-18.39.37:524][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.19-18.39.37:585][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.19-18.39.37:611][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.19-18.39.37:672][  0]LogAssetRegistry: FAssetRegistry took 0.0043 seconds to start up
+[2020.11.19-18.39.38:098][  0]LogInit: Selected Device Profile: [Windows]
