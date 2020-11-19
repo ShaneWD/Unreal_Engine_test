@@ -544,3 +544,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.37.04:553][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
 [2020.11.19-18.37.06:001][  0]LogAssetRegistry: FAssetRegistry took 0.0179 seconds to start up
 [2020.11.19-18.37.17:918][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.19-18.37.22:183][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.19-18.37.22:183][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.19-18.37.22:183][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.19-18.37.22:183][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.19-18.37.22:183][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.19-18.37.23:558][  0]LogNetVersion: GitHub_test111 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2197861447)
