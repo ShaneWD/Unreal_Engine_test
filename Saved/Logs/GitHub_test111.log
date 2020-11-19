@@ -665,3 +665,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-15.25.04:337][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder4)
 [2020.11.19-15.25.05:655][871]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2020.11.19-15.25.11:052][119]LogRenderer: Reallocating scene render targets to support 812x444 Format 10 NumSamples 1 (Frame:5779).
+[2020.11.19-15.25.25:300][397]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.19-15.25.25:345][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.19-15.25.25:369][397]LogSavePackage: Moving '../../../Projects/GitHub_clone_test/1.1/Unreal_Engine_test/Saved/Minimal_Default67EF71FC456E9711267F5FA2C3CF6B83.tmp' to '../../../Projects/GitHub_clone_test/1.1/Unreal_Engine_test/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.11.19-15.25.25:444][397]LogSavePackage: Moving '../../../Projects/GitHub_clone_test/1.1/Unreal_Engine_test/Saved/Minimal_Default_BuiltData8C1C925B4DDB8A2A820DA1B1FD30120E.tmp' to '../../../Projects/GitHub_clone_test/1.1/Unreal_Engine_test/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.11.19-15.25.25:471][397]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.19-15.25.25:471][397]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.11.19-15.25.25:471][397]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
