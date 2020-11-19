@@ -666,3 +666,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.40.58:660][223]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2020.11.19-18.41.04:604][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
 [2020.11.19-18.41.11:667][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder4)
+[2020.11.19-18.42.40:223][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.19-18.43.03:255][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
+[2020.11.19-18.43.06:823][625]Cmd: TRANSACTION UNDO
+[2020.11.19-18.43.06:823][625]LogEditorTransaction: Undo Move Actors
+[2020.11.19-18.43.08:431][625]LogSlate: Took 0.018234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
