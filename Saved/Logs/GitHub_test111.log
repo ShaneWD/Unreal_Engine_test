@@ -543,3 +543,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.37.04:278][  0]LogSlate: Using FreeType 2.10.0
 [2020.11.19-18.37.04:553][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
 [2020.11.19-18.37.06:001][  0]LogAssetRegistry: FAssetRegistry took 0.0179 seconds to start up
+[2020.11.19-18.37.17:918][  0]LogInit: Selected Device Profile: [Windows]
