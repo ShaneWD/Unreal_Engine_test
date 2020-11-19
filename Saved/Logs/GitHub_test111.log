@@ -550,3 +550,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.37.22:183][  0]LogMeshReduction: No distributed automatic mesh merging module available
 [2020.11.19-18.37.22:183][  0]LogMeshMerging: No distributed automatic mesh merging module available
 [2020.11.19-18.37.23:558][  0]LogNetVersion: GitHub_test111 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2197861447)
+[2020.11.19-18.37.54:136][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000017A93279F80), frame # 0
+[2020.11.19-18.37.54:136][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A930FAAC0), frame # 0
+[2020.11.19-18.37.54:150][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017A9325A800), frame # 0
+[2020.11.19-18.37.55:201][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.362692 seconds
+[2020.11.19-18.37.55:255][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.19-18.37.55:275][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.19-18.37.55:275][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
