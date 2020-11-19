@@ -715,3 +715,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.19-18.44.42:878][501]LogEditorActor: Deleted Actor: SphereReflectionCapture
 [2020.11.19-18.44.43:348][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2020.11.19-18.44.43:352][501]LogEditorActor: Deleted 1 Actors (0.477 secs)
+[2020.11.19-18.44.49:547][120]Cmd: ACTOR SELECT ALL
+[2020.11.19-18.44.50:969][217]Cmd: DELETE
+[2020.11.19-18.44.50:969][217]Cmd: ACTOR DELETE
+[2020.11.19-18.44.50:970][217]LogEditorActor: Cannot delete special actor Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Brush_1
+[2020.11.19-18.44.51:050][217]LogEditorActor: Actor Light Source is referenced by BP_Sky_Sphere.
+[2020.11.19-18.44.58:250][217]LogSlate: Window 'Message' being destroyed
+[2020.11.19-18.44.58:873][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.19-18.44.59:126][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.19-18.44.59:161][217]Message dialog closed, result: Cancel, title: Message, text: Actor Light Source is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+BP_Sky_Sphere
+[2020.11.19-18.44.59:161][217]LogEditorActor: Deleted Actor: PlayerStart
+[2020.11.19-18.44.59:162][217]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2020.11.19-18.44.59:162][217]LogEditorActor: Deleted Actor: AtmosphericFog
+[2020.11.19-18.44.59:163][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.44.59:163][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.44.59:164][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.44.59:164][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.44.59:165][217]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2020.11.19-18.44.59:166][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.44.59:166][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.44.59:167][217]LogEditorActor: Deleted Actor: AmbientSound
+[2020.11.19-18.44.59:367][217]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.11.19-18.44.59:368][217]LogEditorActor: Deleted Actor: SkyLight
+[2020.11.19-18.44.59:368][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.19-18.44.59:594][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.11.19-18.44.59:596][217]LogEditorActor: Deleted 14 Actors (0.797 secs)
